@@ -55,4 +55,6 @@
 
 ------
 
+[![](https://visitcount.itsvg.in/api?id=leoadamo&label=Profile%20Views&icon=5&color=0&pretty=true)](https://visitcount.itsvg.in)
+
 [@leoadamo](https://github.com/leoadamo) - Last Edited on: 14/03/2023
