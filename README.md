@@ -1,13 +1,13 @@
 <h1 align="left">Hi guys👋, I'm Leonardo Adamoli</h1>
 <h3 align="left">A front-end Developer who enjoys to write code and learn tech stuff.</h3>
 
-- 🔭 I’m currently working at **[@melhorenvio](https://melhorenvio.com.br/)**
+- 🔭 I’m currently working at **[@melhorenvio](https://melhorenvio.com.br/)**.
 
-- 🌱 I’m currently learning **Vue 3, Vitest, CI/CD**
+- 🧰 I’m currently working with **Vue.js, Pug, Vite, Vitest and Tailwindcss**.
 
-- 📫 How to reach me: **leo.adamoli@gmail.com**
+- 📫 How to reach me: **leo.adamoli@gmail.com**.
 
-- ⚡ What I like to do: **Despite like coding, I enjoy to play games and to listen a variety of music**
+- ⚡ What I like to do: **Despite like coding, playing games and listening to some music are few of my favourite activities**.
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
