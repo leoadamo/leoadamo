@@ -1,4 +1,4 @@
-<h1 align="left">Hi guys👋, I'm Leonardo Adamoli</h1>
+<h1 align="left">Hi guys👋, I'm Leonardo Adamoli.</h1>
 <h3 align="left">A Front-End Developer who enjoys to write code and learn tech stuff.</h3>
 
 - 🔭 I’m currently working at **[@melhorenvio](https://melhorenvio.com.br/)**.
