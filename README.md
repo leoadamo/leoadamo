@@ -22,15 +22,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwindcss" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" width="40" height="40"/> 
   </a>
@@ -45,6 +42,9 @@
   </a>
   <a href="https://vitest.dev/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="vitest" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwindcss" width="40" height="40"/> 
   </a>
 </p>
 
