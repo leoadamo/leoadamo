@@ -1,35 +1,40 @@
-<h1 align="left">Hi guys👋, I'm Leonardo Adamoli.</h1>
-<h3 align="left">A Front-End Developer who enjoys to write code and learn tech stuff.</h3>
+<h1 align="left">Hi there, I'm Leonardo Adamoli 👋</h1>
+<h3 align="left">A Front-End Developer who enjoys writing code and learning new tech.</h3>
+
+🎓 I recently graduated in **Systems Analysis and Development**.
+
+🏅 I hold an **Official Vue.js Certification**.
 
 🔭 I’m currently working at **[@melhorenvio](https://melhorenvio.com.br/)**.
 
-🧰 I’m currently working with **Vue.js, Pug, Vite, Vitest and Tailwindcss**.
+🧰 I’m currently working with **Vue.js, Nuxt, Pug, Vite, Vitest, and Tailwind CSS**.
 
-📫 How to reach me: **leo.adamoli@gmail.com**.
+📫 How to reach me: **leo.adamoli@gmail.com**
 
-⚡ What I like to do: **Despite like coding, playing games and listening to some music are few of my favourite activities**.
+⚡ Fun fact: **Besides coding, I love playing games and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leosadamo/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leoadamo/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adamolileonardo)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.adamoli@gmail.com)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leosadamo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leoadamo/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adamolileonardo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.adamoli@gmail.com)
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,pinia,jest,vitest,tailwind&theme=dark)](https://skillicons.dev)
-
-<p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leoadamo&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoadamo&theme=react&layout=compact" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,pinia,jest,vitest,tailwind&theme=dark)](https://skillicons.dev)
 
 ------
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=leoadamo&label=Profile%20Views&icon=5&color=0&pretty=true)](https://visitcount.itsvg.in)
 
-[@leoadamo](https://github.com/leoadamo) - Last Edited on: 24/11/2024
+</div>
