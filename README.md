@@ -5,7 +5,7 @@
 
 🏅 I hold an **Official Vue.js Certification**.
 
-🔭 I’m currently working at **[@melhorenvio](https://melhorenvio.com.br/)**.
+🔭 I’m currently working at **[@atlastechnol](https://br.linkedin.com/company/atlas-technol)**.
 
 🧰 I’m currently working with **Vue.js, Nuxt, Pug, Vite, Vitest, and Tailwind CSS**.
 
